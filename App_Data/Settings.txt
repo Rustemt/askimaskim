@@ -1,0 +1,2 @@
+DataProvider: sqlserver
+DataConnectionString: Server=36b85476-6787-42a0-8b0a-a2ee00c74704.sqlserver.sequelizer.com;Database=db36b85476678742a08b0aa2ee00c74704;User ID=vufpblpaqfbtktsu;Password=L37MjFbRvDLy4JYUfbLb2NVKUgxHmSrfhUUusotsUDpGXmfevqMxhR67guZcizDK;Persist Security Info=False;Enlist=False;Pooling=True;Min Pool Size=1;Max Pool Size=100;MultipleActiveResultSets=True;Connect Timeout=15;User Instance=False
